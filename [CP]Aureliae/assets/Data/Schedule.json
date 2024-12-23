@@ -1,0 +1,16 @@
+{
+    "Changes": [
+		{
+			"LogName": "Bus Aureliae Schedule",
+			"Action": "EditData",
+			"Target": "Characters/schedules/Aureliae",
+			"Entries": {
+				"Mon": "GOTO Fri",
+				"Tue": "GOTO Fri",
+				"Wed": "GOTO Fri",
+				"Thu": "GOTO Fri",
+				"Fri": "830 Town 46 57 2"
+			},
+		},
+    ],
+}

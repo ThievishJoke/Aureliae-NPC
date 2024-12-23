@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Aureliae0": "Marriage? How... utterly mundane. But I suppose I’ll tolerate it for the sake of appearances. $h",
+                "Aureliae1": "Cold feet? Please. I have nothing to fear. If anything, you should be nervous about being tied to someone as exceptional as me.$h"
+            }
+        }
+    ]
+}

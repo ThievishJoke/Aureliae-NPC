@@ -1,0 +1,44 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "Entries": {
+                "Aureliae": {
+                    "DisplayName": "Aureliae",
+                    "BirthSeason": "Summer",
+                    "BirthDay": 18,
+                    "HomeRegion": "Town",
+                    "Gender": "Female",
+                    "Age": "Teen",
+                    "Manner": "Rude",
+                    "SocialAnxiety": "Outgoing",
+                    "Optimism": "Positive",
+                    "IsDarkSkinned": true,
+                    "CanBeRomanced": true,
+                    "LoveInterest": "",
+                    "Calendar": "HiddenUntilMet",
+                    "CanGreetNearbyCharacters": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanVisitIsland": true,
+                    "IntroductionsQuest": true,
+                    "ItemDeliveryQuests": false,
+                    "PerfectionScore": false,
+                    "FlowerDanceCanDance": true,
+                    "WinterStarParticipant": false,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "BusStop",
+                            "Tile": {
+                                "X": 18,
+                                "Y": 22
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

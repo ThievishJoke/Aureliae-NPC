@@ -1,0 +1,11 @@
+{
+    "Name": "[CP] Aureliae NPC",
+    "Author": "Hana",
+    "Version": "1.2.1",
+    "Description": "Aureliae in Stardew Valley :3",
+    "UniqueID": "Hana.Aureliae",
+    "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

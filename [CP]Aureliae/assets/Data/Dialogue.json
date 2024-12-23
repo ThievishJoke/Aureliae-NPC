@@ -1,0 +1,235 @@
+{
+    "Changes": 
+        [
+            {
+                "LogName": "Conversation topics",
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Aureliae",
+                "Entries": {
+		"Introduction": [
+			"Ah, a commoner. Do try to make yourself useful and stay out of my way, won’t you?",
+			"Oh, another peasant. I trust you know how to bow properly?",
+			"Well, what do we have here? A local? Charming, in a pitiful way.",
+			"Do try to look less... miserable. It’s not a good look on anyone.",
+			"I hope you understand that I am only speaking with you out of pure benevolence. Don’t waste my generosity.",
+			"Ah, you. The one who keeps appearing in front of me. What do you want now?",
+			"Aren’t you the one they all call a ‘farmer’? I suppose it’s a noble profession—if you enjoy dirt.",
+			"Do you know how lucky you are to be in my presence? If only you could truly comprehend it.",
+			"I suppose I’ll entertain you with my presence, though it’s hardly worth my time."
+		],
+		"Birthday": [
+			"Ah, it’s my birthday. I expect a magnificent celebration, though I’m certain it will fall short of my standards.",
+			"A day dedicated to me? How quaint. I shall tolerate this... for now.",
+			"Another year of my greatness. It would be delightful if you offered me something worthy of my status.",
+			"I suppose I’ll allow you to celebrate my birthday in your own humble way. A gift would be... appreciated.",
+			"Well, it’s my special day, and of course, the world revolves around me. I expect nothing less than perfection today.",
+			"My birthday is the only occasion worth celebrating. Let’s hope you don’t ruin it.",
+			"Today is the day the world should acknowledge my brilliance. I expect lavish gifts, of course.",
+			"It’s a day for me, after all. You may bow if you wish—no, you will bow.",
+			"Ah, yes. My birthday. I trust you have something suitable to give me?",
+			"I hope you have enough sense to properly honor me on this special day."
+		],
+		"HeartLevel": {
+			"1": [
+				"So, you’re still hanging around. Are you lost or simply desperate for my attention?",
+				"I’m not sure why you insist on lingering around me, but I suppose I’ll allow it.",
+				"Why are you still here? I’m not in the mood to entertain someone like you right now.",
+				"Aren’t you persistent? It’s almost impressive... almost.",
+				"Do you realize how beneath me you are? I’d advise you to remember your place."
+			],
+			"2": [
+				"You’ve stuck around long enough. I suppose that counts for something.",
+				"You’re not entirely unbearable... though I’d never admit it out loud.",
+				"For someone so... simple, you’ve managed to capture my interest. Don’t mistake that for kindness.",
+				"You’re more tolerable than I expected. But don’t think that means we’re friends.",
+				"I’ll admit, I don’t mind your presence as much as I thought. But don’t get used to it."
+			],
+			"3": [
+				"Hmm, you’re starting to grow on me, though I’d never admit that aloud.",
+				"It’s strange, but you seem less... insufferable than before.",
+				"I’m starting to think you might actually be useful. Don’t get too excited.",
+				"You’re proving to be more tolerable. I’ll allow you to remain in my company for now.",
+				"I suppose there’s some merit to your persistence. I’ll have to think about that."
+			],
+			"4": [
+				"You know, I’ve been thinking... perhaps you’re not entirely as bothersome as I first thought.",
+				"I won’t say it, but you’ve earned some respect from me. Just don’t expect me to make a big deal of it.",
+				"Strangely enough, you might be the one thing in this town worth my time. That’s not a compliment.",
+				"I’m starting to feel somewhat attached to your presence. Let’s not make this a big deal.",
+				"You’re growing on me, though I won’t admit it to anyone else. Keep that in mind."
+			],
+			"5": [
+				"I find myself looking forward to our talks. Don’t think this changes anything—you're still beneath me.",
+				"You’ve managed to impress me. Don’t get too comfortable, though.",
+				"For some reason, I find myself drawn to you. I can’t explain it, but it’s a curious sensation.",
+				"I suppose I’ll admit that you’re not as insufferable as I first thought. Don’t let it go to your head.",
+				"I never thought I’d say this, but I might actually enjoy your company."
+			],
+			"6": [
+				"I suppose you’ve earned some respect from me. Don’t let it go to your head.",
+				"It’s strange... I find myself looking forward to our talks now. Don't get too comfortable.",
+				"You’re not as bad as I first thought. Perhaps you’ve earned a place in my life, if only for a while.",
+				"I’ve noticed you around more often. It’s not entirely unpleasant, I’ll admit."
+			],
+			"7": [
+				"I never thought I’d say this, but you’ve managed to impress me. Keep it up, and I might even start enjoying your company.",
+				"It seems you’ve earned a special place in my heart. Don’t make me regret it.",
+				"I find myself seeking your presence more and more. It’s... odd, but not entirely unpleasant.",
+				"For some reason, I feel oddly content when you're around. Don't mistake that for affection, though.",
+				"You’ve managed to grow on me, even if I can’t quite explain why. I suppose I should thank you for that.",
+				"I’ve come to enjoy our conversations. Don’t think this means you’ve become indispensable, though.",
+				"Your persistence has paid off. I’m starting to think you might be worth my time, after all.",
+				"You know, it’s strange, but you’ve become someone I look forward to seeing. I won’t say that out loud, though.",
+				"I suppose I’ve come to appreciate your company, though don’t expect me to say it often.",
+				"You’re not as insufferable as I once thought. Maybe I’ve grown a little fond of you."
+			],
+			"8": [
+				"If I’m being honest, I do look forward to your visits. You’ve managed to make this place... bearable.",
+				"You’ve earned my trust, and that’s no small feat. I’m willing to admit you’ve become someone important to me."
+			]
+		},
+		"GiftReactions": {
+			"Loved": [
+				"You're giving this to me? This is amazing!",
+				"A perfect gift, exactly what I deserve. How did you know?",
+				"Finally, something worthy of my greatness. I am most pleased.",
+				"This is just what I needed. You might actually have some taste.",
+				"It’s not often I receive something of such value. Consider me impressed.",
+				"Well, well, someone knows how to please royalty. This is quite delightful.",
+				"Ah, yes. You have good taste after all. I accept this with grace.",
+				"This is magnificent. It’s the least I expect from someone who has access to my time.",
+				"Now this is a gift I can appreciate. You’ve earned some favor with me today.",
+				"You actually managed to impress me. I’ll have to remember this.",
+				"I’m speechless. This is exactly the kind of offering I would expect from a loyal subject.",
+				"How fortunate for you to have gifted me something so exceptional. You must be quite lucky."
+			],
+			"Like": [
+				"Hmm, not bad. I suppose I’ll accept this.",
+				"It’s decent. A little below my standards, but I’ll manage.",
+				"I won’t say I love it, but it’s acceptable.",
+				"This is passable. It doesn’t make me nauseous, so I’ll keep it.",
+				"It’ll do. But don’t expect me to show any excitement.",
+				"A fine gift, though hardly impressive. I’ll take it.",
+				"It’s... fine. But don’t think I’m thanking you just yet.",
+				"I suppose I’ll allow it. For now.",
+				"Not the worst thing I’ve ever received. I’ll keep it.",
+				"This is tolerable. But next time, do better.",
+				"Well, it’s better than some of the other gifts I’ve gotten."
+			],
+			"Dislike": [
+				"What is this? This is beneath me!",
+				"I’m insulted. Did you think I would be pleased with this?",
+				"Do you really think I would lower myself to accept this?",
+				"This is unacceptable! What a waste of my time.",
+				"I’ll pretend I didn’t see this. Don’t bother me again.",
+				"This gift is as lowly as the people in this town. Keep it.",
+				"You have no taste, do you? This is revolting.",
+				"You’d dare to give me this? It’s offensive!",
+				"How dare you present me with such a gift. I deserve much more!",
+				"What is this garbage? Get it away from me.",
+				"This is nothing but a pathetic offering. I will not accept it.",
+				"How utterly disappointing. Try again, if you dare."
+			]
+		},
+		"Seasons": {
+			"Spring": [
+				"Spring... I suppose it’s the time for growth, but the peasants still haven’t changed.",
+				"I’d rather be in a beautiful garden, but I suppose this will do for now.",
+				"Spring is supposed to be full of life, but all I see are commoners running about.",
+				"The season of renewal, yet I find nothing worth my time in this town.",
+				"Spring could be magnificent if I were in my palace, but I’m stuck here.",
+				"A season for fresh beginnings. Too bad this town is still as dull as ever.",
+				"Spring is lovely, though not when you’re surrounded by such mediocrity.",
+				"I’d rather be enjoying a grand ball in spring, but I suppose this will do for now."
+			],
+			"Summer": [
+				"Ah, summer. The time when my kingdom should be filled with festivals and grand events.",
+				"Summer here is almost unbearable. Too many people in this infernal heat.",
+				"This summer should be spent in a grand palace, but here I am, surrounded by peasants.",
+				"If I were in my kingdom, this heat would be much more bearable. But here, it’s just... frustrating.",
+				"Summer is a season for leisure. Unfortunately, leisure here means enduring your presence.",
+				"It’s far too warm for my liking. A proper summer would involve a throne room, not this.",
+				"Summer should be spent in luxury. This town cannot even offer that.",
+				"Heat doesn’t suit me. I long for cooler, more refined places."
+			],
+			"Fall": [
+				"Fall. A season for harvesting, though I doubt the crops here are worthy of a royal table.",
+				"I suppose fall is the time to reflect. But I’m stuck in this miserable town.",
+				"The colors of fall are lovely, though they do little to improve this town.",
+				"Fall is a time for grand feasts. This town could use some proper festivities.",
+				"I suppose fall is tolerable. If only this place could match the season’s beauty.",
+				"The season of harvest. I doubt anything in this town could be considered worthy of royalty.",
+				"Fall should be celebrated with elegance. Here, it’s just another dreary day.",
+				"The leaves may change color, but this town remains as drab as ever."
+			],
+			"Winter": [
+				"Winter is the time for warmth, for royal balls, for grandeur. Not this.",
+				"Cold weather. How unrefined. I should be enjoying it in a palace with a fire burning.",
+				"I long for the winter seasons of my kingdom, not this dismal cold in a town like this.",
+				"Winter could be magical, but it’s just another inconvenience here.",
+				"The chill of winter does little for me. I’d rather be surrounded by warmth and luxury.",
+				"Snow is beautiful... if it’s on the palace grounds. Not in this village.",
+				"Winter is supposed to be serene, but I’m surrounded by commoners in this dreadful place.",
+				"I’d enjoy winter more if I were anywhere but here."
+			]
+		},
+		"Weather": {
+			"Rain": [
+				"Rain... how dreary. I’m far too important to be stuck in this mess.",
+				"I suppose this is fitting. The weather mirrors the dreariness of this place.",
+				"Rain just makes everything worse. I’d rather be in a castle where such things don’t matter.",
+				"I refuse to get wet. Someone better fetch an umbrella for me.",
+				"Ugh, rain. It’s just another inconvenience in this town.",
+				"I don’t mind the rain, but I’d rather be enjoying it from a comfortable palace.",
+				"Rain again? How truly delightful... not.",
+				"I hope you’re enjoying this rain. It certainly suits the mood of this miserable town."
+			],
+			"Sunny": [
+				"Finally, some proper weather. I’ll enjoy it as much as I can in this town.",
+				"Ah, the sun. Perhaps there’s some joy in this town after all.",
+				"The sun is shining, but I still feel surrounded by mediocrity.",
+				"It’s a perfect day, and yet I’m still here, surrounded by these peasants.",
+				"Sunshine doesn’t make this town any more tolerable.",
+				"Sun, at last. Too bad I’m still in this dreadful town.",
+				"I suppose the sun is a decent companion. Too bad it doesn’t make this place any more impressive.",
+				"I could be enjoying this weather in a more fitting place, but alas."
+			]
+		},
+		"Spring 7": "Ah, spring... the world is finally waking up. It's a time of renewal, though I still think it’s far too cold for my tastes.",
+		"Spring 14": "The flowers are blooming, and there’s a certain freshness in the air. Perhaps spring isn’t so bad after all.",
+		"Spring 21": "I can’t say I’m fond of the mud, but the promise of new beginnings is... somewhat invigorating.",
+		"Spring 28": "The warmth is starting to return. Finally, I can shed these layers of clothes. Spring does have its charm, I suppose.",
+		"Autumn 7": "Autumn has its appeal, with the changing colors and the crisp air. It reminds me of how fleeting beauty can be.",
+		"Autumn 14": "I’m actually starting to appreciate autumn. The chill in the air feels much more refined than the scorching heat of summer.",
+		"Autumn 21": "I could get used to this season. The air is cooler, and the golden hues of the leaves are... tolerable.",
+		"Autumn 28": "Autumn is a reminder that everything must eventually fade. Still, it has a certain elegance to it.",
+		"Winter 7": "Winter again... Too cold, too dreary. It’s a season for staying indoors, away from the common masses.",
+		"Winter 14": "Snow is overrated, I think. It just makes everything look more... lifeless. I’d much rather be anywhere else.",
+		"Winter 21": "I’d enjoy winter more if I were anywhere but here. The cold is unbearable, and there’s far too much mud for my taste.",
+		"Winter 28": "It’s a shame that winter has to be so dreary. The cold air does nothing to improve my mood, especially in a place like this.",
+		"Indoor": {
+			"Day": [
+				"A lazy afternoon. Not that there’s much to do here anyway.",
+				"I suppose I’ll relax inside today. Not that it will make this town any better.",
+				"It’s too quiet in here. I should be surrounded by people of importance, not... this.",
+				"I’d rather be in my chambers, away from the commoners.",
+				"This town is so boring, even on a nice day inside.",
+				"There’s nothing to do but reflect on how inferior this place is.",
+				"Indoors is tolerable. But it’s still far from ideal.",
+				"Why am I stuck inside this wretched town? This is beneath me."
+			],
+			"Night": [
+				"The night is the perfect time to reflect on how beneath me everyone here is.",
+				"I should be attending a royal event, but instead, I’m trapped in this town.",
+				"Nightfall here is a reminder that there’s nowhere in this town for someone of my stature.",
+				"I suppose I’ll have to make do with this wretched town for another night.",
+				"At least the night brings some peace. Too bad I’m surrounded by peasants.",
+				"A quiet night... If only it were spent in the comfort of my palace.",
+				"Night should be a time for celebration, not for enduring this town.",
+				"I could be enjoying this quiet night in a much more appropriate setting."
+				]
+			}
+		}
+		}
+	]
+}
